@@ -142,7 +142,7 @@ const comparativa = [
     factoring: "Hasta 20% anual",
   },
   { c: "Plazos", ahorro: "6 meses a + 5 años", factoring: "15 a 180 días" },
-  { c: "Riesgo", ahorro: "Variable según el tipo de fondo.", factoring: "Medio" },
+
   {
     c: "Respaldo",
     ahorro: "Regulado por SMV",
